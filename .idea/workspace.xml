@@ -1,37 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eacaff5-7f2b-4b0e-8e8c-bb03844ef72c" name="Default Changelist" comment="Oefening Gemaakt tot Oefening 1 Deel 2 Javascript">
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/ThuisOefeningen/Oefening 1.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/ThuisOefeningen/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_bootstrap/bootstrap-4.0.0-dist/js/bootstrap.min.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wbootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_bootstrap/KlasOefeningen/Oefening3/Oefening3.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_bootstrap/KlasOefeningen/Oefening3/Oefening3.0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +61,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -77,11 +97,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yugib\WebstormProjects\web_advanced_2021" />
+      <recent name="C:\Users\yugib\WebstormProjects\web_advanced_2021\Chapter_bootstrap\ThuisOefeningen" />
+      <recent name="C:\Users\yugib\WebstormProjects\web_advanced_2021\Chapter_bootstrap" />
       <recent name="C:\Users\yugib\WebstormProjects\web_advanced_2021\Chapter_Javascript\ThuisOefeningen\Deel1" />
       <recent name="C:\Users\yugib\WebstormProjects\web_advanced_2021\Chapter_bootstrap\KlasOefeningen\Oefening1" />
-      <recent name="C:\Users\yugib\WebstormProjects\web_advanced_2021\Chapter_bootstrap\ThuisOefeningen\bootstrap-getting-started" />
-      <recent name="C:\Users\yugib\WebstormProjects\web_advanced_2021\Chapter_bootstrap\KlasOefeningen" />
-      <recent name="C:\Users\yugib\WebstormProjects\web_advanced_2021\Chapter_Javascript\KlasOefeningen" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yugib\WebstormProjects\web_advanced_2021" />
@@ -120,6 +140,8 @@
       <workItem from="1618821542747" duration="141000" />
       <workItem from="1621842088592" duration="18000" />
       <workItem from="1624028768435" duration="705000" />
+      <workItem from="1624095259339" duration="477000" />
+      <workItem from="1624102741319" duration="2153000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap begin aangemaakt">
       <created>1613379549733</created>
@@ -149,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615800058975</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update">
+      <created>1624095466331</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624095466331</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,113 +206,86 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Bootstrap begin aangemaakt" />
     <MESSAGE value="Oefening Gemaakt tot Oefening 1 Deel 2 Javascript" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oefening Gemaakt tot Oefening 1 Deel 2 Javascript" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615798962357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615798962357" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1613377027301">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613377027301" />
     <state width="1899" height="354" key="GridCell.Tab.0.bottom" timestamp="1615800245291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245291" />
     <state width="1899" height="354" key="GridCell.Tab.0.center" timestamp="1615800245291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282562" />
     <state width="1899" height="354" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245291" />
     <state width="1899" height="354" key="GridCell.Tab.0.left" timestamp="1615800245291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282562" />
     <state width="1899" height="354" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245291" />
     <state width="1899" height="354" key="GridCell.Tab.0.right" timestamp="1615800245291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245291" />
     <state width="1899" height="354" key="GridCell.Tab.1.bottom" timestamp="1615800245292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245292" />
     <state width="1899" height="354" key="GridCell.Tab.1.center" timestamp="1615800245291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245291" />
     <state width="1899" height="354" key="GridCell.Tab.1.left" timestamp="1615800245291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245291" />
     <state width="1899" height="354" key="GridCell.Tab.1.right" timestamp="1615800245291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245291" />
     <state width="1899" height="354" key="GridCell.Tab.2.bottom" timestamp="1615800245292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245292" />
     <state width="1899" height="354" key="GridCell.Tab.2.center" timestamp="1615800245292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245292" />
     <state width="1899" height="354" key="GridCell.Tab.2.left" timestamp="1615800245292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245292" />
     <state width="1899" height="354" key="GridCell.Tab.2.right" timestamp="1615800245292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245292" />
     <state width="1899" height="354" key="GridCell.Tab.3.bottom" timestamp="1615800245292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245292" />
     <state width="1899" height="354" key="GridCell.Tab.3.center" timestamp="1615800245292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245292" />
     <state width="1899" height="354" key="GridCell.Tab.3.left" timestamp="1615800245292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245292" />
     <state width="1899" height="354" key="GridCell.Tab.3.right" timestamp="1615800245292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613572282563" />
     <state width="1899" height="354" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615800245292" />
-    <state x="841" y="240" key="RollbackChangesDialog" timestamp="1613380596638">
+    <state x="168" y="226" key="Vcs.Push.Dialog.v2" timestamp="1624095476308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="841" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613380596638" />
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1615800060800">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615800060800" />
+    <state x="168" y="226" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624095476308" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615799462003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615799462003" />
-    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1614869049204">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="667" y="119" width="585" height="801" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614869049204" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615799453110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
